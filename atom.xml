@@ -1,20 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>易鑫柯的博客</title>
+  <title>evilcos</title>
   <icon>lelia.club/icon.png</icon>
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="lelia.club/"/>
-  <updated>2020-08-17T05:34:05.162Z</updated>
+  <updated>2020-12-04T05:26:11.708Z</updated>
   <id>lelia.club/</id>
   
   <author>
-    <name>易鑫柯</name>
+    <name>evilcos</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何使用reposync的方式进行同步代码</title>
+    <link href="lelia.club/2020/12/04/github-reposync/"/>
+    <id>lelia.club/2020/12/04/github-reposync/</id>
+    <published>2020-12-04T05:19:24.000Z</published>
+    <updated>2020-12-04T05:26:11.708Z</updated>
+    
+    <content type="html"><![CDATA[<p>鉴于 <code>lxk0301</code> 大佬的分支因为 <code>fork</code> 过多用于执行 <code>actions</code> 导致被删，为了防范于未然</p><blockquote><p>在 <code>GitHub Action</code> 项目上不要 <code>fork</code></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;鉴于 &lt;code&gt;lxk0301&lt;/code&gt; 大佬的分支因为 &lt;code&gt;fork&lt;/code&gt; 过多用于执行 &lt;code&gt;actions&lt;/code&gt; 导致被删，为了防范于未然&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在 &lt;code&gt;GitHub
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="GitHub" scheme="lelia.club/tags/GitHub/"/>
+    
+  </entry>
   
   <entry>
     <title>Go语言学习</title>

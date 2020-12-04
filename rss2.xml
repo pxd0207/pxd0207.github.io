@@ -3,20 +3,45 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>易鑫柯的博客</title>
+    <title>evilcos</title>
     <link>lelia.club/</link>
     
     <image>
       <url>lelia.club/icon.png</url>
-      <title>易鑫柯的博客</title>
+      <title>evilcos</title>
       <link>lelia.club/</link>
     </image>
     
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Mon, 17 Aug 2020 05:34:05 GMT</pubDate>
+    <pubDate>Fri, 04 Dec 2020 05:26:11 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>如何使用reposync的方式进行同步代码</title>
+      <link>lelia.club/2020/12/04/github-reposync/</link>
+      <guid>lelia.club/2020/12/04/github-reposync/</guid>
+      <pubDate>Fri, 04 Dec 2020 05:19:24 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;p&gt;鉴于 &lt;code&gt;lxk0301&lt;/code&gt; 大佬的分支因为 &lt;code&gt;fork&lt;/code&gt; 过多用于执行 &lt;code&gt;actions&lt;/code&gt; 导致被删，为了防范于未然&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在 &lt;code&gt;GitHub
+          
+        
+      
+      </description>
+      
+      
+      <content:encoded><![CDATA[<p>鉴于 <code>lxk0301</code> 大佬的分支因为 <code>fork</code> 过多用于执行 <code>actions</code> 导致被删，为了防范于未然</p><blockquote><p>在 <code>GitHub Action</code> 项目上不要 <code>fork</code></p></blockquote>]]></content:encoded>
+      
+      <comments>lelia.club/2020/12/04/github-reposync/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>Go语言学习</title>
