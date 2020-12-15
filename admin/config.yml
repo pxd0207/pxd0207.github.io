@@ -46,15 +46,21 @@ collections:
     name: pages
     delete: false
     files:
+      - name: about-index.md
+        label: 我的小秘密
+        file: source\about\index.md
+        editor:
+          preview: true
+        fields: *ref_0
       - name: categories-index.md
         label: 分类
         file: source\categories\index.md
         editor:
           preview: true
         fields: *ref_0
-      - name: about-index.md
-        label: 我的小秘密
-        file: source\about\index.md
+      - name: gallery-Onmyoji.md
+        label: 阴阳师
+        file: source\gallery\Onmyoji.md
         editor:
           preview: true
         fields: *ref_0
@@ -67,12 +73,6 @@ collections:
       - name: gallery-World of Warcraft.md
         label: 魔兽世界
         file: source\gallery\World of Warcraft.md
-        editor:
-          preview: true
-        fields: *ref_0
-      - name: gallery-Onmyoji.md
-        label: 阴阳师
-        file: source\gallery\Onmyoji.md
         editor:
           preview: true
         fields: *ref_0
@@ -94,9 +94,33 @@ collections:
         editor:
           preview: true
         fields: *ref_0
+      - name: swiper-swiperindex.js
+        label: ''
+        file: source\swiper\swiperindex.js
+        editor:
+          preview: true
+        fields: *ref_0
+      - name: swiper-swiperstyle.css
+        label: ''
+        file: source\swiper\swiperstyle.css
+        editor:
+          preview: true
+        fields: *ref_0
       - name: tags-index.md
         label: 标签
         file: source\tags\index.md
+        editor:
+          preview: true
+        fields: *ref_0
+      - name: swiper-swiper.min.css
+        label: ''
+        file: source\swiper\swiper.min.css
+        editor:
+          preview: true
+        fields: *ref_0
+      - name: swiper-swiper.min.js
+        label: ''
+        file: source\swiper\swiper.min.js
         editor:
           preview: true
         fields: *ref_0
