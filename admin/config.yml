@@ -64,15 +64,15 @@ collections:
         editor:
           preview: true
         fields: *ref_0
-      - name: gallery-Onmyoji.md
-        label: 阴阳师
-        file: source\gallery\Onmyoji.md
-        editor:
-          preview: true
-        fields: *ref_0
       - name: gallery-World of Warcraft.md
         label: 魔兽世界
         file: source\gallery\World of Warcraft.md
+        editor:
+          preview: true
+        fields: *ref_0
+      - name: gallery-Onmyoji.md
+        label: 阴阳师
+        file: source\gallery\Onmyoji.md
         editor:
           preview: true
         fields: *ref_0
@@ -82,21 +82,15 @@ collections:
         editor:
           preview: true
         fields: *ref_0
-      - name: link-index.md
-        label: 友情链接
-        file: source\link\index.md
-        editor:
-          preview: true
-        fields: *ref_0
       - name: gallery-lol.md
         label: 英雄联盟
         file: source\gallery\lol.md
         editor:
           preview: true
         fields: *ref_0
-      - name: swiper-swiperstyle.css
-        label: ''
-        file: source\swiper\swiperstyle.css
+      - name: link-index.md
+        label: 友情链接
+        file: source\link\index.md
         editor:
           preview: true
         fields: *ref_0
@@ -109,6 +103,12 @@ collections:
       - name: swiper-swiperindex.js
         label: ''
         file: source\swiper\swiperindex.js
+        editor:
+          preview: true
+        fields: *ref_0
+      - name: swiper-swiperstyle.css
+        label: ''
+        file: source\swiper\swiperstyle.css
         editor:
           preview: true
         fields: *ref_0
